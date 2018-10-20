@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\KAI-PC\Documents\107_ApplicationSoftwareDesign\java\Homework CH3\.metadata\.plugins\org.eclipse.jdt.core
+913299116.index
+3323413208.index
+672736244.index
